@@ -1,0 +1,6 @@
+{
+  "prettier.enable": false,
+  "eslint.format.enable": true,
+  "eslint.experimental.useFlatConfig": true,
+  "eslint.debug": true
+}
